@@ -1,0 +1,25 @@
+[
+    {
+        "id": 1,
+        "name":"Dell XPS 15 9510 i9-11900H 16GB 1TB SSD GC",
+        "price":150000,
+        "availability": true,
+        "image" : "images/dell_xps.jpg"
+    }
+    ,
+    {
+        "id": 10,
+        "name":"Lenovo ThinkPad T15g Gen 1 Xeon W-10885m 32GB 1TB SSD GC",
+        "price":130000,
+        "availability": false,
+        "image" : "images/lenovo.jpg"
+    }
+    ,
+    {
+        "id": 150,
+        "name":"Hp Notebook 15 DW1001wm 4GB 128GB SSD",
+        "price":80000,
+        "availability": true,
+        "image" : "images/hp_notebook.jpg"
+    }
+]
